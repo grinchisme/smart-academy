@@ -18,7 +18,8 @@ const styles = StyleSheet.create({
       paddingVertical: 6,
       paddingHorizontal: 32,
       fontSize: 14,
-      color: 'white'
+      color: 'white',
+      fontFamily: 'HKGrotesk-Bold'
     }
 })
 

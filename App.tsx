@@ -37,7 +37,6 @@ const App = () => {
       </View>
 
       <View style={styles.row}>
-
         <View style={styles.colLeft}>
           <Text style={styles.textActivityNum1}>2,467</Text>
           <Text style={styles.textActivityTx1}>Followers</Text>
@@ -46,15 +45,22 @@ const App = () => {
           <Text style={styles.textActivityNum2}>1,589</Text>
           <Text style={styles.textActivityTx2}>Following</Text>
         </View>
-
         <View style={styles.colRight}>
           <Button text='Подробнее' />
         </View>
-
-        <View style={styles.line} />
-
-
       </View>
+
+      <View style={styles.line} />
+
+      <View style={styles.row}>
+        <View style={styles.colLeft}>
+          <Text style={styles.textPh}>Фотографии</Text>
+        </View>
+        <View style={styles.colRight}>
+          <Text style={styles.textNum}>245</Text>
+        </View>
+      </View>
+
     </SafeAreaView>
   );
 };
@@ -92,13 +98,13 @@ const styles = StyleSheet.create({
     color: 'white',
     fontSize: 16,
     paddingTop: 17,
-    // fontFamily: fonts.Lato.Bold
+    fontFamily: 'HKGrotesk-Bold'
   },
   textEmail: {
     color: '#8672BB',
     fontSize: 12,
     paddingTop: 6,
-    // fontFamily: fonts.Lato.Bold
+    fontFamily: 'HKGrotesk-Medium'
   },
   userAvatar: {
     // alignItems: 'center',
@@ -108,21 +114,35 @@ const styles = StyleSheet.create({
     color: '#8672BB',
     fontSize: 16,
     paddingTop: 29,
-    // fontFamily: fonts.Lato.Bold
+    fontFamily: 'HKGrotesk-Medium'
+  },
+  textNum: {
+    color: '#8672BB',
+    fontSize: 16,
+    marginRight: 128,
+    marginTop: 20,
+    fontFamily: 'HKGrotesk-Medium'
   },
   textWork: {
     color: 'white',
     fontSize: 14,
     paddingTop: 8,
-    paddingBottom: 24
-    // fontFamily: fonts.Lato.Bold
+    paddingBottom: 24,
+    fontFamily: 'HKGrotesk-Medium'
+  },
+  textPh: {
+    color: 'white',
+    fontSize: 14,
+    marginLeft: 129,
+    marginTop: 20,
+    fontFamily: 'HKGrotesk-Medium'
   },
   textActivityNum1: {
     color: 'white',
     fontSize: 14,
     // padding: 8,
     // paddingBottom: 24
-    // fontFamily: fonts.Lato.Bold
+    fontFamily: 'HKGrotesk-Bold',
     marginLeft: 5,
     marginRight: 30
   },
@@ -131,7 +151,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     // padding: 8,
     // paddingBottom: 24
-    // fontFamily: fonts.Lato.Bold
+    fontFamily: 'HKGrotesk-Medium',
     marginLeft: 5,
     marginRight: 30
   },
@@ -140,7 +160,7 @@ const styles = StyleSheet.create({
     fontSize: 14,
     // padding: 8,
     // paddingBottom: 24
-    // fontFamily: fonts.Lato.Bold
+    fontFamily: 'HKGrotesk-Bold',
     marginLeft: 30,
     marginRight: 30
   },
@@ -149,15 +169,12 @@ const styles = StyleSheet.create({
     fontSize: 14,
     // padding: 8,
     // paddingBottom: 24
-    // fontFamily: fonts.Lato.Bold
+    fontFamily: 'HKGrotesk-Medium',
     marginLeft: 30,
     marginRight: 30
   },
   line: {
-    position: 'absolute',
-    width: 342,
-    height: 0,
-    top: 60,
+    marginTop: 24,
 
     borderWidth: 1,
     borderStyle: 'solid',

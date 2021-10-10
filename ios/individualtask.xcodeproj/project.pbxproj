@@ -28,6 +28,28 @@
 		7D63025C2C3F4C5EBB41E56D /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 087B32A20CDF4C28BFEA5F84 /* Octicons.ttf */; };
 		0C72C738085F4642A9182A3C /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B00E8536C81845579BB22CCE /* SimpleLineIcons.ttf */; };
 		54FA287C32304FA3B065693B /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B5A4D5B2D01D40D4B489DC01 /* Zocial.ttf */; };
+		903254F7BCE540059ABA92D3 /* HKGrotesk-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C5810B71E77E434AB1FE6D57 /* HKGrotesk-Black.ttf */; };
+		CF30F18614C24D439D140671 /* HKGrotesk-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AAB9B372DFE47D695AFF02D /* HKGrotesk-Bold.ttf */; };
+		0649DA0691A94029BF54DF2E /* HKGrotesk-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 03C3B8FEFACB476D82637935 /* HKGrotesk-BoldItalic.ttf */; };
+		784597ED4599429596F4260B /* HKGrotesk-BoldLegacy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A2636237FD534112984AE271 /* HKGrotesk-BoldLegacy.ttf */; };
+		9E41E1C748054BB6BB2192DB /* HKGrotesk-BoldLegacyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CADB92E0A2CF496D8B0F0933 /* HKGrotesk-BoldLegacyItalic.ttf */; };
+		0AF6EE8C9812403F91658297 /* HKGrotesk-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 538F5A14167446859D30506D /* HKGrotesk-ExtraBold.ttf */; };
+		362B8625D198455294A17804 /* HKGrotesk-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1A8E688CF9764D9AA99452DB /* HKGrotesk-Italic.ttf */; };
+		91778254A2FC4CB881DE4631 /* HKGrotesk-LegacyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13177D78010248F1AC2EE74D /* HKGrotesk-LegacyItalic.ttf */; };
+		34D8F07C6D6F4CFDA6D8BCDA /* HKGrotesk-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4ABCC00321B049D697CDA935 /* HKGrotesk-Light.ttf */; };
+		1E727EEF7BFB400BB26E2FDA /* HKGrotesk-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 19AE824C87584B53AA303649 /* HKGrotesk-LightItalic.ttf */; };
+		0E94F23AF57D46918712B435 /* HKGrotesk-LightLegacy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2027628FA57440D4BF104125 /* HKGrotesk-LightLegacy.ttf */; };
+		B101F731C5AE4A488B25F703 /* HKGrotesk-LightLegacyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1A23F99C3C1445C586E148C5 /* HKGrotesk-LightLegacyItalic.ttf */; };
+		41BB8FD64E9B4570A2428511 /* HKGrotesk-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75AF61C30407439992749A90 /* HKGrotesk-Medium.ttf */; };
+		63A417D1A95246F69063C4C7 /* HKGrotesk-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 246D40AD1BA04A1D8195E295 /* HKGrotesk-MediumItalic.ttf */; };
+		E1F43B5378684B1AA69ED8F5 /* HKGrotesk-MediumLegacy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76C534F76F1F4C3BBDBA5148 /* HKGrotesk-MediumLegacy.ttf */; };
+		2352E43D675B43BE82A360AB /* HKGrotesk-MediumLegacyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 428812A62A9F41028B06C843 /* HKGrotesk-MediumLegacyItalic.ttf */; };
+		6D88A1BD2EED46759DE3D69C /* HKGrotesk-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 20719895512A40C99ADBF960 /* HKGrotesk-Regular.ttf */; };
+		8957668F4F50438B967328AA /* HKGrotesk-RegularLegacy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 460BB86874554528A4A56AF5 /* HKGrotesk-RegularLegacy.ttf */; };
+		EC24B766990E438191472A36 /* HKGrotesk-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 946F9044946D4036807CE0B1 /* HKGrotesk-SemiBold.ttf */; };
+		153E2F751AA6469785BB4909 /* HKGrotesk-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3AF918949B3F4241B4A0B501 /* HKGrotesk-SemiBoldItalic.ttf */; };
+		7D160A02456A4F728FFD46E7 /* HKGrotesk-SemiBoldLegacy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F12F1ECB07B7476183B43B08 /* HKGrotesk-SemiBoldLegacy.ttf */; };
+		C09F48526F5D4E33BDF8FFD2 /* HKGrotesk-SemiBoldLegacyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3494EF00B2244536A710FFE5 /* HKGrotesk-SemiBoldLegacyItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +90,28 @@
 		087B32A20CDF4C28BFEA5F84 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		B00E8536C81845579BB22CCE /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		B5A4D5B2D01D40D4B489DC01 /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C5810B71E77E434AB1FE6D57 /* HKGrotesk-Black.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-Black.ttf"; path = "../assets/fonts/HKGrotesk-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0AAB9B372DFE47D695AFF02D /* HKGrotesk-Bold.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-Bold.ttf"; path = "../assets/fonts/HKGrotesk-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		03C3B8FEFACB476D82637935 /* HKGrotesk-BoldItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-BoldItalic.ttf"; path = "../assets/fonts/HKGrotesk-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A2636237FD534112984AE271 /* HKGrotesk-BoldLegacy.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-BoldLegacy.ttf"; path = "../assets/fonts/HKGrotesk-BoldLegacy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		CADB92E0A2CF496D8B0F0933 /* HKGrotesk-BoldLegacyItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-BoldLegacyItalic.ttf"; path = "../assets/fonts/HKGrotesk-BoldLegacyItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		538F5A14167446859D30506D /* HKGrotesk-ExtraBold.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-ExtraBold.ttf"; path = "../assets/fonts/HKGrotesk-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1A8E688CF9764D9AA99452DB /* HKGrotesk-Italic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-Italic.ttf"; path = "../assets/fonts/HKGrotesk-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		13177D78010248F1AC2EE74D /* HKGrotesk-LegacyItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-LegacyItalic.ttf"; path = "../assets/fonts/HKGrotesk-LegacyItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4ABCC00321B049D697CDA935 /* HKGrotesk-Light.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-Light.ttf"; path = "../assets/fonts/HKGrotesk-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		19AE824C87584B53AA303649 /* HKGrotesk-LightItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-LightItalic.ttf"; path = "../assets/fonts/HKGrotesk-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2027628FA57440D4BF104125 /* HKGrotesk-LightLegacy.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-LightLegacy.ttf"; path = "../assets/fonts/HKGrotesk-LightLegacy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		1A23F99C3C1445C586E148C5 /* HKGrotesk-LightLegacyItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-LightLegacyItalic.ttf"; path = "../assets/fonts/HKGrotesk-LightLegacyItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		75AF61C30407439992749A90 /* HKGrotesk-Medium.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-Medium.ttf"; path = "../assets/fonts/HKGrotesk-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		246D40AD1BA04A1D8195E295 /* HKGrotesk-MediumItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-MediumItalic.ttf"; path = "../assets/fonts/HKGrotesk-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		76C534F76F1F4C3BBDBA5148 /* HKGrotesk-MediumLegacy.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-MediumLegacy.ttf"; path = "../assets/fonts/HKGrotesk-MediumLegacy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		428812A62A9F41028B06C843 /* HKGrotesk-MediumLegacyItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-MediumLegacyItalic.ttf"; path = "../assets/fonts/HKGrotesk-MediumLegacyItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		20719895512A40C99ADBF960 /* HKGrotesk-Regular.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-Regular.ttf"; path = "../assets/fonts/HKGrotesk-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		460BB86874554528A4A56AF5 /* HKGrotesk-RegularLegacy.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-RegularLegacy.ttf"; path = "../assets/fonts/HKGrotesk-RegularLegacy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		946F9044946D4036807CE0B1 /* HKGrotesk-SemiBold.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-SemiBold.ttf"; path = "../assets/fonts/HKGrotesk-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3AF918949B3F4241B4A0B501 /* HKGrotesk-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-SemiBoldItalic.ttf"; path = "../assets/fonts/HKGrotesk-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F12F1ECB07B7476183B43B08 /* HKGrotesk-SemiBoldLegacy.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-SemiBoldLegacy.ttf"; path = "../assets/fonts/HKGrotesk-SemiBoldLegacy.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3494EF00B2244536A710FFE5 /* HKGrotesk-SemiBoldLegacyItalic.ttf */ = {isa = PBXFileReference; name = "HKGrotesk-SemiBoldLegacyItalic.ttf"; path = "../assets/fonts/HKGrotesk-SemiBoldLegacyItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +220,28 @@
 				087B32A20CDF4C28BFEA5F84 /* Octicons.ttf */,
 				B00E8536C81845579BB22CCE /* SimpleLineIcons.ttf */,
 				B5A4D5B2D01D40D4B489DC01 /* Zocial.ttf */,
+				C5810B71E77E434AB1FE6D57 /* HKGrotesk-Black.ttf */,
+				0AAB9B372DFE47D695AFF02D /* HKGrotesk-Bold.ttf */,
+				03C3B8FEFACB476D82637935 /* HKGrotesk-BoldItalic.ttf */,
+				A2636237FD534112984AE271 /* HKGrotesk-BoldLegacy.ttf */,
+				CADB92E0A2CF496D8B0F0933 /* HKGrotesk-BoldLegacyItalic.ttf */,
+				538F5A14167446859D30506D /* HKGrotesk-ExtraBold.ttf */,
+				1A8E688CF9764D9AA99452DB /* HKGrotesk-Italic.ttf */,
+				13177D78010248F1AC2EE74D /* HKGrotesk-LegacyItalic.ttf */,
+				4ABCC00321B049D697CDA935 /* HKGrotesk-Light.ttf */,
+				19AE824C87584B53AA303649 /* HKGrotesk-LightItalic.ttf */,
+				2027628FA57440D4BF104125 /* HKGrotesk-LightLegacy.ttf */,
+				1A23F99C3C1445C586E148C5 /* HKGrotesk-LightLegacyItalic.ttf */,
+				75AF61C30407439992749A90 /* HKGrotesk-Medium.ttf */,
+				246D40AD1BA04A1D8195E295 /* HKGrotesk-MediumItalic.ttf */,
+				76C534F76F1F4C3BBDBA5148 /* HKGrotesk-MediumLegacy.ttf */,
+				428812A62A9F41028B06C843 /* HKGrotesk-MediumLegacyItalic.ttf */,
+				20719895512A40C99ADBF960 /* HKGrotesk-Regular.ttf */,
+				460BB86874554528A4A56AF5 /* HKGrotesk-RegularLegacy.ttf */,
+				946F9044946D4036807CE0B1 /* HKGrotesk-SemiBold.ttf */,
+				3AF918949B3F4241B4A0B501 /* HKGrotesk-SemiBoldItalic.ttf */,
+				F12F1ECB07B7476183B43B08 /* HKGrotesk-SemiBoldLegacy.ttf */,
+				3494EF00B2244536A710FFE5 /* HKGrotesk-SemiBoldLegacyItalic.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -287,6 +353,28 @@
 				7D63025C2C3F4C5EBB41E56D /* Octicons.ttf in Resources */,
 				0C72C738085F4642A9182A3C /* SimpleLineIcons.ttf in Resources */,
 				54FA287C32304FA3B065693B /* Zocial.ttf in Resources */,
+				903254F7BCE540059ABA92D3 /* HKGrotesk-Black.ttf in Resources */,
+				CF30F18614C24D439D140671 /* HKGrotesk-Bold.ttf in Resources */,
+				0649DA0691A94029BF54DF2E /* HKGrotesk-BoldItalic.ttf in Resources */,
+				784597ED4599429596F4260B /* HKGrotesk-BoldLegacy.ttf in Resources */,
+				9E41E1C748054BB6BB2192DB /* HKGrotesk-BoldLegacyItalic.ttf in Resources */,
+				0AF6EE8C9812403F91658297 /* HKGrotesk-ExtraBold.ttf in Resources */,
+				362B8625D198455294A17804 /* HKGrotesk-Italic.ttf in Resources */,
+				91778254A2FC4CB881DE4631 /* HKGrotesk-LegacyItalic.ttf in Resources */,
+				34D8F07C6D6F4CFDA6D8BCDA /* HKGrotesk-Light.ttf in Resources */,
+				1E727EEF7BFB400BB26E2FDA /* HKGrotesk-LightItalic.ttf in Resources */,
+				0E94F23AF57D46918712B435 /* HKGrotesk-LightLegacy.ttf in Resources */,
+				B101F731C5AE4A488B25F703 /* HKGrotesk-LightLegacyItalic.ttf in Resources */,
+				41BB8FD64E9B4570A2428511 /* HKGrotesk-Medium.ttf in Resources */,
+				63A417D1A95246F69063C4C7 /* HKGrotesk-MediumItalic.ttf in Resources */,
+				E1F43B5378684B1AA69ED8F5 /* HKGrotesk-MediumLegacy.ttf in Resources */,
+				2352E43D675B43BE82A360AB /* HKGrotesk-MediumLegacyItalic.ttf in Resources */,
+				6D88A1BD2EED46759DE3D69C /* HKGrotesk-Regular.ttf in Resources */,
+				8957668F4F50438B967328AA /* HKGrotesk-RegularLegacy.ttf in Resources */,
+				EC24B766990E438191472A36 /* HKGrotesk-SemiBold.ttf in Resources */,
+				153E2F751AA6469785BB4909 /* HKGrotesk-SemiBoldItalic.ttf in Resources */,
+				7D160A02456A4F728FFD46E7 /* HKGrotesk-SemiBoldLegacy.ttf in Resources */,
+				C09F48526F5D4E33BDF8FFD2 /* HKGrotesk-SemiBoldLegacyItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
