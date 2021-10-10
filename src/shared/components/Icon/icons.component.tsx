@@ -13,8 +13,8 @@ const Icomoon = createIconSetFromIcoMoon(
 
 const Icon = ({
     name,
-    color='black',
-    size=25
+    color='white',
+    size=27
 }: IconProps) => {
     return (
         <View>
